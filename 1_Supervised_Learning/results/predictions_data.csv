@@ -1,0 +1,8 @@
+| PassengerIndex | ActualSurvived | PredictedSurvived | PredictionProbability | Model                  |
+|---------------|---------------|-------------------|-----------------------|------------------------|
+| 0             | 1             | 1                 | 0.91                   | LogisticRegression     |
+| 1             | 0             | 0                 | 0.12                   | LogisticRegression     |
+| 2             | 1             | 1                 | 0.85                   | DecisionTreeClassifier |
+| 3             | 0             | 1                 | 0.78                   | RandomForestClassifier |
+| 4             | 0             | 0                 | 0.05                   | LogisticRegression     |
+| ...           | ...           | ...               | ...                    | ...                    |
