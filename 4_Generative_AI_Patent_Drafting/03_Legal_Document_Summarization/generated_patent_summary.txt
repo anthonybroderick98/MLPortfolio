@@ -1,0 +1,1 @@
+The patent outlines a method for enhancing AI-generated text through reinforcement learning. The system employs a neural network model initially trained on a dataset of legal documents. It undergoes fine-tuning via iterative self-improvement cycles. The primary objective of the invention is to enhance both the consistency and accuracy of AI-generated patent claims.

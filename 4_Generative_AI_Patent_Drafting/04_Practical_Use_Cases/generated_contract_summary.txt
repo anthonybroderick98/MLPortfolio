@@ -1,0 +1,7 @@
+This contract establishes a licensing arrangement for AI software. The key terms are as follows:
+
+1. **Purpose**: The software is to be used by the licensee solely for non-commercial research purposes.
+   
+2. **Intellectual Property**: The licensor maintains full ownership of all intellectual property related to the software.
+
+3. **Confidentiality**: The licensee is required to adhere to strict confidentiality agreements concerning the proprietary code and methodologies associated with the software.
