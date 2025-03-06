@@ -1,4 +1,4 @@
-# ML Portfolio 🚀  
+# ML Portfolio   
 
 ## Overview  
 This repository showcases a collection of AI & Machine Learning projects, covering Supervised Learning, Unsupervised Learning, Model Evaluation, Generative AI, AI Debugging, and Legal AI Research. Each project follows a structured machine learning workflow, demonstrating data preprocessing, model training, evaluation, and real-world applications.  
