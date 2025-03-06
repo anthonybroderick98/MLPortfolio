@@ -1,0 +1,10 @@
+Silhouette Score: 0.4876
+Davies-Bouldin Score: 0.5831
+
+Cluster Size Distribution:
+Cluster
+2    4
+0    2
+1    2
+3    2
+Name: count, dtype: int64

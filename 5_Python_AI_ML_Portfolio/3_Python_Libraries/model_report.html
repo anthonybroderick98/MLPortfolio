@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scikit-Learn Model Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; }
+        table { width: 50%; border-collapse: collapse; margin: 20px 0; }
+        th, td { padding: 10px; border: 1px solid #ddd; text-align: center; }
+        th { background-color: #3498db; color: white; }
+    </style>
+</head>
+<body>
+    <h1>Scikit-Learn Model Evaluation Report</h1>
+    <h2>Model: Logistic Regression</h2>
+    <h3>Accuracy: 1.00</h3>
+    
+    <h2>Confusion Matrix</h2>
+    <table>
+        <tr><th></th><th>Predicted 0</th><th>Predicted 1</th></tr>
+        <tr><th>Actual 0</th><td>1</td><td>0</td></tr>
+        <tr><th>Actual 1</th><td>0</td><td>2</td></tr>
+    </table>
+
+    <h2>Classification Report</h2>
+    <pre>              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         1
+           1       1.00      1.00      1.00         2
+
+    accuracy                           1.00         3
+   macro avg       1.00      1.00      1.00         3
+weighted avg       1.00      1.00      1.00         3
+</pre>
+</body>
+</html>

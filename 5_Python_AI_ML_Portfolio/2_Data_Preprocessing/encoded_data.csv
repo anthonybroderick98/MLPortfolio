@@ -1,0 +1,6 @@
+Name,Gender,Membership_Platinum,Membership_Silver
+Alice,0,False,False
+Bob,1,False,True
+Charlie,1,False,True
+David,1,False,False
+Eve,0,True,False
